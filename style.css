@@ -2,6 +2,10 @@
 body{
 background-color: bisque;
 }
+.title{
+    text-align: center;
+    font-size: 20px;
+}
 .Copy {
     text-align: right;
     position: relative;
