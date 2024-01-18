@@ -1,12 +1,17 @@
 @charset "UTF-8";
 body{
-background-color: bisque;
+background-color: #1e2039;
 }
 .title{
+    color: white;
     text-align: center;
     font-size: 20px;
 }
+.Waning{
+color: white;
+}
 .Copy {
+    color: gray;
     text-align: right;
     position: relative;
 }
