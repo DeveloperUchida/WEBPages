@@ -1,7 +1,7 @@
 # WEBPages
 # DevelopmentEnviloment
 - Microsoft Windows10Pro 64Bit
-- JetBrains IntelliJ IDEA Ultimate 2023.3.2
+- Microsoft Visual Studio Code
 - HTML5 CSS3
 # イラスト引用
 - [イラストや](https://www.irasutoya.com/)<p>
