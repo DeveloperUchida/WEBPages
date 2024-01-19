@@ -1,10 +1,6 @@
 @charset "UTF-8";
-
 body{
 background-color: #1e2039;
-}
-.Wapper{
-    margin: 5%;
 }
 .title{
     color: white;
@@ -16,6 +12,7 @@ a{
     margin-bottom: 20px;
 }
 .Waning{
+    text-align: center;
     color: white;
 }
 
@@ -39,7 +36,7 @@ a{
     text-align: center;
 }
 #UntiyText{
-    
+
     margin-top: 200px;
     color: white;
 }
