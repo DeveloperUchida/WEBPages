@@ -28,11 +28,16 @@ a{
 }
 
 .Text{
+    margin-top: 70px;
     margin-left: 10px;
     color: white;
     display: inline-block;
 }
-
+.text{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
 .Copy {
     font-size: 10px;
     color: gray;
