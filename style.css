@@ -3,30 +3,32 @@
 body{
 background-color: #1e2039;
 }
-
+.Wapper{
+    margin: 5%;
+}
 .title{
     color: white;
     text-align: center;
     font-size: 20px;
 }
-
-/* aタグを黒くする */
 a{
     color:cadetblue;
+    margin-bottom: 20px;
 }
-
 .Waning{
-color: white;
+    color: white;
 }
 
-.Youtube1{
-    text-align: left;
-    display: inline-block;
-    vertical-align: middle;
+.cont{
+    justify-content: left;
+    align-items: left;
+    vertical-align: left;
+    display: flex;
+    margin-top: 20px;
 }
 
-.Text1{
-    font-size: 25px;
+.Text{
+    margin-left: 10px;
     color: white;
     display: inline-block;
 }
