@@ -1,19 +1,36 @@
 @charset "UTF-8";
+
 body{
 background-color: #1e2039;
 }
+
 .title{
     color: white;
     text-align: center;
     font-size: 20px;
 }
+
 /* aタグを黒くする */
 a{
     color:cadetblue;
 }
+
 .Waning{
 color: white;
 }
+
+.Youtube1{
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Text1{
+    font-size: 25px;
+    color: white;
+    display: inline-block;
+}
+
 .Copy {
     font-size: 10px;
     color: gray;
