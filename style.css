@@ -7,10 +7,15 @@ background-color: #1e2039;
     text-align: center;
     font-size: 20px;
 }
+/* aタグを黒くする */
+a{
+    color:cadetblue;
+}
 .Waning{
 color: white;
 }
 .Copy {
+    font-size: 10px;
     color: gray;
     text-align: right;
     position: relative;
