@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body{
-background-color: #1e2039;
+background-color: #786c78;
 }
 .title{
     color: white;
@@ -31,9 +31,11 @@ a{
     display: inline-block;
 }
 .text{
+    background-color: black;
     font-size: 30px;
     color: white;
     text-align: center;
+    
 }
 #UntiyText{
 
