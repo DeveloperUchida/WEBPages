@@ -31,10 +31,11 @@ a{
     display: inline-block;
 }
 .text{
+    margin-right: 620px;
+    margin-left: 700px;
     background-color: black;
     font-size: 30px;
     color: white;
-    text-align: center;
     
 }
 #UntiyText{
