@@ -20,11 +20,11 @@ a{
 }
 
 .cont{
-    justify-content: left;
-    align-items: left;
-    vertical-align: left;
+    justify-content: center;
+    align-items: center;
+    vertical-align: calc();
     display: flex;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .Text{
@@ -34,8 +34,9 @@ a{
     display: inline-block;
 }
 .text{
-    margin-right: 620px;
-    margin-left: 700px;
+    text-align: center;
+    width: 7em;
+    margin: auto;
     background-color: black;
     font-size: 30px;
     color: white;
