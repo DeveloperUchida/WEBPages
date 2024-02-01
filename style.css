@@ -25,6 +25,14 @@ a {
     justify-content: center;
     margin-top: 5ex;
 }
+.Flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Flex .QRimage{
+    margin: 07px;
+}
 #QRimage {
     flex-direction: row;
     align-items: center;
