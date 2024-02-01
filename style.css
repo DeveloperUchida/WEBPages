@@ -1,52 +1,67 @@
 @charset "UTF-8";
-body{
-background-color: #786c78;
+body {
+    background-color: #786c78;
 }
-.title{
+
+.title {
     color: white;
     text-align: center;
     font-size: 20px;
 }
-a{
-    color:cadetblue;
+
+a {
+    color: cadetblue;
     margin-bottom: 20px;
 }
-.Waning{
+
+.Waning {
     text-align: center;
     color: white;
 }
-.text1{
-    text-align: center;
+
+.QRimage{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 5ex;
+}
+#QRimage {
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 5ex;
 }
 
-.cont{
+.cont {
     justify-content: center;
     align-items: center;
-    vertical-align: calc();
+    vertical-align: center;
     display: flex;
     margin-top: 30px;
 }
 
-.Text{
+.Text {
     margin-top: 70px;
     margin-left: 10px;
     color: white;
     display: inline-block;
 }
-.text{
+
+.text {
     text-align: center;
     width: 7em;
     margin: auto;
     background-color: black;
     font-size: 30px;
     color: white;
-    
 }
-#UntiyText{
 
+#UntiyText {
     margin-top: 200px;
     color: white;
 }
+
 .Copy {
     font-size: 10px;
     color: gray;
