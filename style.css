@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 body {
     background-color: #786c78;
 }
@@ -19,20 +20,23 @@ a {
     color: white;
 }
 
-.QRimage{
+.QRimage {
     align-items: center;
     display: flex;
     justify-content: center;
     margin-top: 5ex;
 }
-.Flex{
+
+.Flex {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.Flex .QRimage{
+
+.Flex .QRimage {
     margin: 07px;
 }
+
 #QRimage {
     flex-direction: row;
     align-items: center;
