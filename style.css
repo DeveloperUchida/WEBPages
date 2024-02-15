@@ -69,6 +69,17 @@ a {
     color: white;
 }
 
+.UntiyGithub {
+    text-align: center;
+}
+
+button {
+    margin: auto;
+    width: fit-content;
+    color: white;
+    background: transparent;
+}
+
 #UntiyText {
     margin-top: 200px;
     color: white;
