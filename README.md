@@ -6,7 +6,7 @@
 - Microsoft Visual StudioCode
 - HTML5 CSS3
 - GoLang 1.22
-- GoLayblary gin
-# イラスト引用
+- GoLibrary gin
+# illustration quote
 - [イラストや](https://www.irasutoya.com/)<p>
 &copy; 2024DeveloperUchida 
